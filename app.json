@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "02-starter-ts",
-    "slug": "02-starter-ts",
+    "name": "05-starter-ts",
+    "slug": "05-starter-ts",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": ["ios", "android"],
